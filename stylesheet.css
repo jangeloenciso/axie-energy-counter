@@ -1,0 +1,20 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+    padding: 10%;
+    text-align: center;
+}
+
+.function {
+    align-items: center;
+}
+
+.btn {
+    padding: 14px 40px;
+    margin: 2%;
+}
+
+.function {
+    display: flex;
+    justify-content: space-around;
+}
